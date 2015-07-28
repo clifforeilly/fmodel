@@ -1,0 +1,30 @@
+0 Cue words
+1 Frames
+2 Frame Elements
+3 Lexical Units
+4 Is inherited by - isInheritedBy()
+5 Is Perspectivised in - perspectivized()
+6 Uses - uses()
+7 Is used by - usedBy()
+8 Has Subframe - hasSubframe()
+9 Is Inchoative of - inchoative()
+10 State - inchoativeStative()
+11 Causative_of - causative()
+12 State - causativeStative()
+13 x - allInheritedFrames()
+14 x - allInheritingFrames()
+15 precedes - earlier()
+16 Inherits from - inheritsFrom()
+17 Later (Is preceded by?) - later()
+18 Perspective on - neutral()
+19 See also - referred()
+20 Referring entry - referring()
+21 Subframe of - subframeof()
+
+22 nouns
+23 Named Entities
+
+
+
+
+204.236.225.9
